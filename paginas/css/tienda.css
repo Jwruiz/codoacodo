@@ -129,7 +129,7 @@ li{
 
 /* hero*/
 .hero{
-    background-image: url(/img/fondo-baner.jpg);
+    background-image: url(../../img/fondo-baner.jpg);
     padding: 50px;
     background-size: cover;
     background-attachment: fixed;
